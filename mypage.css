@@ -2,6 +2,30 @@
 .nav li{
 	display: inline;
 }
-.aboutme img {
-	float:right;
+.nav a{
+	color: #5a5a5a;
+  	font-size: 18px;
+  	font-weight: bold;
+  	padding: 12px;
+  	text-transform: uppercase;
 }
+
+.aboutme p{
+	color: #534741;
+	font-size: 14px;
+}
+
+.aboutme h1{
+	color: #4f394f;
+}
+
+.goals h2{
+	color: #4f394f;
+}
+
+.goals li{
+	color: #534741;
+	font-size: 14px;
+}
+
+
