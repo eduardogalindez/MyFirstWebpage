@@ -28,4 +28,13 @@
 	font-size: 14px;
 }
 
+.videos {
+	background-image: url(http://www.coris.noaa.gov/portals/images/pr_detail1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% auto;
 
+}
+
+.videos h1{
+	color: #996633;
+}
