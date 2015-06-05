@@ -29,12 +29,16 @@
 }
 
 .videos {
-	background-image: url(http://www.coris.noaa.gov/portals/images/pr_detail1.jpg);
+	background-image: url(http://upload.wikimedia.org/wikipedia/commons/5/56/PR_flag_island.svg);
+	background-position: 0px 100px;
 	background-repeat: no-repeat;
 	background-size: 100% auto;
 
 }
 
-.videos h1{
-	color: #996633;
+.videos iframe{
+	position: center;
+
 }
+
+
